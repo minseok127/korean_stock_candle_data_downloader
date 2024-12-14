@@ -1,1 +1,1 @@
-**This repository was created during my undergraduate years to download and continously update data from the korean stock margket. It is based on the Dasihin Securities API and the Qt framework. It uses SQLite3 as the database.**
+**This repository was created during my undergraduate years to download and continously update data from the korean stock market. It is based on the Dasihin Securities API and the Qt framework. It uses SQLite3 as the database.**
