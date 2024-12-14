@@ -1,4 +1,4 @@
-**This repository was created during my undergraduate years to download and continously update data from the korean stock market. It is based on the Dasihin Securities API and the Qt framework. It uses SQLite3 as the database.**
+**This repository was created during my undergraduate years to download and continously update data from the korean stock market. It is based on the Daishin Securities API and the Qt framework. It uses SQLite3 as the database.**
 
 **You can retrieve data for all stocks in the KOSPI and KOSDAQ markets for the maximum period provided by Daishin Securities. Available timeframes include monthly, weekly, daily, and intraday candles such as 30, 15, 5, 3, and 1-minute intervals.**
 
