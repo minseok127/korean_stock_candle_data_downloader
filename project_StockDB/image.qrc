@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>login.png</file>
+        <file>start.png</file>
+        <file>back.png</file>
+        <file>cyber.png</file>
+        <file>startGreen.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

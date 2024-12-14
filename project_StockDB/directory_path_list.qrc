@@ -1,0 +1,4 @@
+<RCC>
+    <qresource lang="eng" prefix="/"/>
+    <qresource prefix="/path"/>
+</RCC>
